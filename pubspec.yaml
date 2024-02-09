@@ -29,8 +29,9 @@ dev_dependencies:
 flutter:
   uses-material-design: true
   assets:
-    - assets/images/
     - assets/icons/
+    - assets/images/
+    - assets/fonts/
 
 flutter_gen:
   output: lib/ui_kit/
